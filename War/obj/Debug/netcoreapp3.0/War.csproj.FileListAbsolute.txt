@@ -1,0 +1,11 @@
+C:\Users\ntully\source\repos\War\War\bin\Debug\netcoreapp3.0\War.exe
+C:\Users\ntully\source\repos\War\War\bin\Debug\netcoreapp3.0\War.deps.json
+C:\Users\ntully\source\repos\War\War\bin\Debug\netcoreapp3.0\War.runtimeconfig.json
+C:\Users\ntully\source\repos\War\War\bin\Debug\netcoreapp3.0\War.runtimeconfig.dev.json
+C:\Users\ntully\source\repos\War\War\bin\Debug\netcoreapp3.0\War.dll
+C:\Users\ntully\source\repos\War\War\bin\Debug\netcoreapp3.0\War.pdb
+C:\Users\ntully\source\repos\War\War\obj\Debug\netcoreapp3.0\War.csprojAssemblyReference.cache
+C:\Users\ntully\source\repos\War\War\obj\Debug\netcoreapp3.0\War.AssemblyInfoInputs.cache
+C:\Users\ntully\source\repos\War\War\obj\Debug\netcoreapp3.0\War.AssemblyInfo.cs
+C:\Users\ntully\source\repos\War\War\obj\Debug\netcoreapp3.0\War.dll
+C:\Users\ntully\source\repos\War\War\obj\Debug\netcoreapp3.0\War.pdb
